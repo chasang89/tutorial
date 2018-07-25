@@ -2,7 +2,7 @@ public class ExcelTest1 {
 
 	public static void main(String args[]){
 
-		//값을 입력받는 곳3.
+		//값을 입력받는 곳.
 		int input = 167;
 		
 		ExcelTest1 rs = new ExcelTest1();
