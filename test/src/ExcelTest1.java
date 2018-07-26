@@ -2,7 +2,7 @@ public class ExcelTest1 {
 
 	public static void main(String args[]){
 
-		//branch1
+		//branch2
 		//값을 입력받는 곳.
 		int input = 167;
 		
