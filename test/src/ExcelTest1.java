@@ -2,14 +2,13 @@ public class ExcelTest1 {
 
 	public static void main(String args[]){
 
-		//branch2
 		//값을 입력받는 곳.
 		int input = 167;
 		
 		ExcelTest1 rs = new ExcelTest1();
 
 		System.out.println(input + "의 값은 : " + rs.result(input) + "입니다.");
-
+		System.out.println("I am a branch2");
 	}
 
 	public StringBuilder result(int input){
