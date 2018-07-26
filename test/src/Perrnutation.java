@@ -6,7 +6,7 @@ public class Perrnutation {
 
 		Perrnutation p = new Perrnutation();
 
-		/*숫자를 입력하는 곳.*/
+		/*숫자를 입력하는 곳*/
 		int [] input={0,0,0};
 
 		if(input.length>=2 && input.length<=18) {
