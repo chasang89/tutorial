@@ -9,6 +9,7 @@ public class ExcelTest1 {
 
 		System.out.println(input + "의 값은 : " + rs.result(input) + "입니다.");
 		System.out.println("I am master");
+		System.out.println("I am a branch1");
 	}
 
 	public StringBuilder result(int input){
